@@ -1,0 +1,4 @@
+/Users/lilini/master/master_2/tp_video/lab4_etudiant/Lab4/build/CMakeFiles/Classification.dir
+/Users/lilini/master/master_2/tp_video/lab4_etudiant/Lab4/build/CMakeFiles/rebuild_cache.dir
+/Users/lilini/master/master_2/tp_video/lab4_etudiant/Lab4/build/CMakeFiles/edit_cache.dir
+/Users/lilini/master/master_2/tp_video/lab4_etudiant/Lab4/build/CMakeFiles/Lab4.dir
